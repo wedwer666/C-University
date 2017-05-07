@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\bin\Debug\WindowsLab9.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\bin\Debug\WindowsLab9.exe
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\bin\Debug\WindowsLab9.pdb
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\obj\Debug\WindowsLab9.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\obj\Debug\WindowsLab9.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\obj\Debug\WindowsLab9.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\obj\Debug\WindowsLab9.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\obj\Debug\WindowsLab9.exe
+c:\users\acer\documents\visual studio 2015\Projects\WindowsLab9\WindowsLab9\obj\Debug\WindowsLab9.pdb
